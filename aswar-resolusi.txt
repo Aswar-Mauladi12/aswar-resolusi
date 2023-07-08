@@ -1,0 +1,4 @@
+aswar resolusi
+- konsisten belajar GIT setiap hari
+- mengetahui lebih lanjut tentang GIT
+- membuat program di aplikasi GIT/github
