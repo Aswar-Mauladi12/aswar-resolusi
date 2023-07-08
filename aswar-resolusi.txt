@@ -1,4 +1,6 @@
-aswar resolusi
-- konsisten belajar GIT setiap hari
+Aswar resolusi
+- Konsisten belajar GIT setiap hari
 - mengetahui lebih lanjut tentang GIT
-- membuat program di aplikasi GIT/github
+- Membuat program di aplikasi GIT/github
+- Membuat merch shop
+- Kolaborasi dengan lebih banyak PT
