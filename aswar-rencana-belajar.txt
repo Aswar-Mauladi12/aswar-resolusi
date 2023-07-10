@@ -9,6 +9,4 @@ RENCANA BELAJAR ASWAR
   ^ Laravel
     ^ vue
     ^ React
-- php Framework
-  ^ Laravel
 - pyhton
