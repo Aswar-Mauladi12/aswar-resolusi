@@ -1,9 +1,11 @@
 RENCANA BELAJAR ASWAR
 
 - Git
-- Fremwork Laravel
 - interview/wawancara
 - java
   * ES6
-  * Fremwork Java
-- php
+  * Framework Java
+    ^ Angular
+    ^ React
+- php Framework
+  ^ Laravel
