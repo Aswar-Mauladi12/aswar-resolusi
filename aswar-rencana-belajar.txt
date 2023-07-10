@@ -4,3 +4,5 @@ RENCANA BELAJAR ASWAR
 - Fremwork Laravel
 - interview/wawancara
 - java
+  * ES6
+  * Fremwork Java
