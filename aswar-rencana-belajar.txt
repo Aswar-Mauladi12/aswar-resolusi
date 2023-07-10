@@ -9,4 +9,5 @@ RENCANA BELAJAR ASWAR
   ^ Laravel
     ^ vue
     ^ React
+    ^ Angular
 - pyhton
