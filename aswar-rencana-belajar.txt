@@ -1,0 +1,8 @@
+RENCANA BELAJAR ASWAR
+
+- Git
+- Fremwork Laravel
+- interview/wawancara
+- java
+  * ES6
+  * Fremwork Java
