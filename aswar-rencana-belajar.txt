@@ -6,4 +6,8 @@ RENCANA BELAJAR ASWAR
 - java
   * ES6
   * Fremwork Java
-- php
+    ^ vue
+- php Fremwork
+  ^ Laravel
+- pyhton
+
