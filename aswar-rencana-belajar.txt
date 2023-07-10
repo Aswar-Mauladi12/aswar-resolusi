@@ -5,7 +5,10 @@ RENCANA BELAJAR ASWAR
 - java
   * ES6
   * Framework Java
-    ^ Angular
+- php Framework
+  ^ Laravel
+    ^ vue
     ^ React
 - php Framework
   ^ Laravel
+- pyhton
